@@ -16,7 +16,7 @@ function Footer() {
                 </a>
               </div>
               <div>
-                <a target="_blank" rel="noopener noreferrer" href="https://github.com/rfsx0829/">
+                <a target="_blank" rel="noopener noreferrer" href="https://github.com/rfsx0829/my-mainpage">
                   <FormattedMessage id="app.footer.sourcecode" />
                 </a>
               </div>
