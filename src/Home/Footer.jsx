@@ -65,7 +65,7 @@ function Footer() {
       </div>
       <Row className="bottom-bar">
         <Col>
-          <span style={{ marginRight: 12 }}>ICP xx xx-x-xxxxxx</span>
+          <a target="_blank" rel="noopener noreferrer" href="http://www.beian.miit.gov.cn/"><span style={{ marginRight: 12 }}>冀ICP备20001504号</span></a>
           <span style={{ marginRight: 0 }}>Powered By </span>
           <a target="_blank" rel="noopener noreferrer" href="https://ant.design/">Ant Design</a>
         </Col>
