@@ -51,7 +51,7 @@ module.exports = {
     'app.footer.company': '蚂蚁金融服务集团',
     'app.footer.ant-design': '蚂蚁 UI 体系',
 
-    'app.home.about': "了解更多",
+    'app.home.about': '了解更多',
     'app.footer.contact': '联系站长',
     'app.footer.friendlinks': '友情链接',
     'app.footer.thanks': '特别感谢',
