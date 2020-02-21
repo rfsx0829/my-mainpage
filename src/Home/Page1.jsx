@@ -12,7 +12,7 @@ const page1Data = [
     img: 'https://gw.alipayobjects.com/zos/rmsportal/URIeCOKLMAbRXaeXoNqN.svg',
     name: '个人博客',
     nameEn: 'Personal Blog',
-    link: 'https://bugzeng.com/blog',
+    link: 'https://im.bugzeng.com/blog',
     svgBg: (
       <svg width="213px" height="303px" viewBox="0 0 213 303" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
         <circle id="Oval-12-Copy-6" fill="#1D39C4" opacity="0.45" cx="60" cy="157" r="25" />
@@ -36,7 +36,7 @@ const page1Data = [
     img: 'https://gw.alipayobjects.com/zos/rmsportal/qXncdwwUTTgUFnsbCNCE.svg',
     name: '扫雷',
     nameEn: 'Minesweeper',
-    link: 'https://bugzeng.com/vue-minesweeper',
+    link: 'https://im.bugzeng.com/vue-minesweeper',
     svgBg: (
       <svg width="207px" height="295px" viewBox="0 0 207 295" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
         <rect id="Rectangle-14" stroke="#1D39C4" opacity="0.7" x="192.5" y="62.5" width="14" height="14" rx="1" />
@@ -58,7 +58,7 @@ const page1Data = [
     img: 'https://gw.alipayobjects.com/zos/rmsportal/YFXXZocxAgjReehpPNbX.svg',
     name: 'Coil',
     nameEn: 'Coil',
-    link: 'https://bugzeng.com/Coil',
+    link: 'https://im.bugzeng.com/Coil',
     svgBg: (
       <svg width="215px" height="286px" viewBox="0 0 215 286" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd" style={{ transform: 'translateX(-30px)' }}>
         <circle id="Oval-12-Copy-4" fill="#1D39C4" opacity="0.35" cx="77" cy="152" r="10" />
@@ -78,8 +78,8 @@ const page1Data = [
   },
   {
     img: 'https://gw.alipayobjects.com/zos/rmsportal/VPuetGsvJuYBwoDkZWFW.svg',
-    name: '暂无',
-    nameEn: 'None',
+    name: '图库',
+    nameEn: 'Pictures',
     link: '#',
     svgBg: (
       <svg width="193px" height="286px" viewBox="0 0 193 286" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd" style={{ transform: 'translateY(-20px)' }}>
